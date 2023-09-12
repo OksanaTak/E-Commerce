@@ -35,6 +35,7 @@ Product.init(
           key: 'id',
         },
       }
+      
     },
 
   {
